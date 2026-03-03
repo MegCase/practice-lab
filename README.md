@@ -1,7 +1,9 @@
 # practice-lab
-This repo is used as part of my Git practice lab, add your name to the __END__ of the file. You were doing well in life, and you'll be doing 10x better when your name is merged into this file.
+
+This repo is used as part of my Git practice lab, add your name to the **END** of the file. You were doing well in life, and you'll be doing 10x better when your name is merged into this file.
 
 ## Names of people who have completed the lab
+
 Michael
 Fernanda
 Ross
@@ -89,3 +91,82 @@ Heidi
 Anna
 Vicki
 Meg
+Vahid
+Peter
+Ryan
+Iryna
+Alessandra
+Tiago
+Mykola
+Cecilia
+Jessica
+Gregory
+Matteo
+Gregory
+Alex
+Bikiza
+Callum
+Pablo L
+Johnathan
+Mikolaj
+Colin
+Magdalena
+Przemyslaw
+Andrea
+Patryk
+Damian
+Michael
+Alexis
+Kevin
+Radu
+Heather
+Anna
+Maria
+Ronnie
+Donna
+Simon
+Iryna
+Mykyta
+John
+Leonid
+Hannah
+Ali
+Anna D
+Carmen L
+Carmen M
+Mazlum
+Marcel
+Steven C
+Takaaki
+Yulia
+Delan
+Dom
+Alex
+Louis
+Archie
+Dave M
+Taylor
+Lewis
+Michal M
+Anusha
+Ross H
+Jordan
+Paolo
+Stefano
+Agata
+Clara
+Yasemin
+Fiona
+Geunyoung
+Susan
+Susana Gonzalez
+Woody
+Rebecca
+Anna
+Tom
+Jude
+Sandra
+Steven B
+Leonne Hutchinson
+Marta
+Artem
